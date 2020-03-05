@@ -11,6 +11,6 @@ Inside `react` folder:
     3.See the result on your browser
     
     
-Inside `websocket`:
+Inside `websocket` folder:
     
     1.Java -jar pushserver.jar 8080
